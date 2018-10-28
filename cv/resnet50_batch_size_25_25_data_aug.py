@@ -164,7 +164,7 @@ my_new_model.fit_generator(
         steps_per_epoch=152,
         validation_data=validation_generator,
         validation_steps=38
-        ,epochs=20)
+        ,epochs=10)
 
 """
 as the model training is running we'll see progress updates showing
